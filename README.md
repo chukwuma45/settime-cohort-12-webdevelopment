@@ -1,3 +1,3 @@
-#this is a github repo for my learning journey at settime digital academy.
+# this is a github repo for my learning journey at settime digital academy.
 
-##Join us in this journey.
+## Join us in this journey.
